@@ -18,7 +18,7 @@ Loop, {
     if (ran = 1)
         break
     send, {LControl down}{Tab down}{LControl up}{Tab up}
-    Sleep, 5000
+    Sleep, 180000
 }
 
 Stop:
